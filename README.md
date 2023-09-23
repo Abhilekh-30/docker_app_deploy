@@ -16,3 +16,5 @@ Process:
 12. Type the IP_addr:8080. (IP_addr = instance public IP)
 
 Then you can see the frontend of the app that you created. This is hosted on docker container using the custom image created.
+
+Author: Abhilekh Talukdar (M22CS003)
